@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
     <p style="font-size: x-large"><b>Hi there 👋 </b></p>
 </div>
 
-<div id="badges" align="center">
+<p id="badges" align="center">
     <a href="https://www.linkedin.com/in/matthew-law-75908b1a5/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a><a href="https://www.instagram.com/chuffs97/">
@@ -31,24 +28,47 @@ Here are some ideas to get you started:
     </a><a href="https://twitter.com/home">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-</div>
-    
-<div align="center">
     <img src="https://komarev.com/ghpvc/?username=chuffs&style=for-the-badge&color=blue" alt=""/>
-</div>
+</p>
 
-<hr>
+***
 
-### 🔭 I’m currently working on
+## 🔭 I’m currently working on
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=RemotePowerMonitor&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=CoinspotAPI&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=MicroMattWebsite&theme=dark">
-<hr>
+[![Remote Power Outage][2]][1]
+[![CoinSpot API][4]][3]
+[![Portforlio Website][6]][5]
 
-<div align="center">
-    <img src ="http://github-readme-streak-stats.herokuapp.com?user=chuffs&theme=dark&background=000000">
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuffs&layout=compact&theme=vision-friendly-dark">
-</div>   
+[1]: https://github.com/Chuffs/RemotePowerMonitor
+[2]: https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=RemotePowerMonitor&theme=dark
+[3]: https://github.com/Chuffs/CoinspotAPI
+[4]: https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=CoinspotAPI&theme=dark
+[5]: https://github.com/Chuffs/PortfolioWebsite
+[6]: https://github-readme-stats.vercel.app/api/pin/?username=chuffs&repo=PortfolioWebsite&theme=dark
+
+***
+
+## 🌱 I’m currently learning/studying
+
++ University - UniSQ, Bachelor of Engineering (Honours) (Computer Systems Engineering) & Bachelor of Infomation Technology (Applied Computer Science)
++ Arduino - ESP32/ESP8266 - [Remote Power Outage Detection][1]
++ JavaScript/Node.js - [Coinspot API][3]
++ Jekyl, HTML/CSS, Ruby, Liquid - [ePortfolioWebsite][7] - [Github Repo][5]
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[7]: https://mljl.tech
+
+![My Wakatime Stats][8]
+
+***
+
+## 📊 My Stats
+![Stats][9]
+
+![Most Used Langs][10]
+
+[8]: https://github-readme-stats.vercel.app/api/wakatime?username=Chuffs&theme=dark
+[9]: http://github-readme-streak-stats.herokuapp.com?user=chuffs&theme=dark&background=000000
+[10]: https://github-readme-stats.vercel.app/api/top-langs/?username=chuffs&layout=compact&theme=vision-friendly-dark
