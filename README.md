@@ -59,6 +59,20 @@ Here are some ideas to get you started:
 + Jekyl, HTML/CSS, Ruby, Liquid - [ePortfolioWebsite][7] - [Github Repo][5]
 
 <!--START_SECTION:waka-->
+
+```text
+From: 30 October 2022 - To: 31 October 2022
+
+Total Time: 1 hr 40 mins
+
+Markdown     52 mins         >>>>>>>>>>>>>------------   51.83 %
+JSON         33 mins         >>>>>>>>-----------------   33.57 %
+JavaScript   6 mins          >>-----------------------   06.14 %
+Git Config   5 mins          >------------------------   05.17 %
+YAML         2 mins          >------------------------   02.86 %
+Gosu         0 secs          -------------------------   00.43 %
+```
+
 <!--END_SECTION:waka-->
 
 [7]: https://mljl.tech
