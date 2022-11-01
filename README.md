@@ -63,15 +63,12 @@ Here are some ideas to get you started:
 
 [7]: https://mljl.tech
 
-![My Wakatime Stats][8]
-
 ***
 
 ## 📊 My Stats
-![Stats][9]
+![Stats][8]
 
-![Most Used Langs][10]
+![Most Used Langs][9]
 
-[8]: https://github-readme-stats.vercel.app/api/wakatime?username=Chuffs&theme=dark
-[9]: http://github-readme-streak-stats.herokuapp.com?user=chuffs&theme=dark&background=000000
-[10]: https://github-readme-stats.vercel.app/api/top-langs/?username=chuffs&layout=compact&theme=vision-friendly-dark
+[8]: http://github-readme-streak-stats.herokuapp.com?user=chuffs&theme=dark&background=000000
+[9]: https://github-readme-stats.vercel.app/api/top-langs/?username=chuffs&layout=compact&theme=vision-friendly-dark
