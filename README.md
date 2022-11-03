@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 31 October 2022
+From: 30 October 2022 - To: 02 November 2022
 
-Total Time: 1 hr 40 mins
+Total Time: 1 hr 56 mins
 
-Markdown     52 mins         >>>>>>>>>>>>>------------   51.83 %
-JSON         33 mins         >>>>>>>>-----------------   33.57 %
-JavaScript   6 mins          >>-----------------------   06.14 %
-Git Config   5 mins          >------------------------   05.17 %
-YAML         2 mins          >------------------------   02.86 %
-Gosu         0 secs          -------------------------   00.43 %
+Markdown     56 mins         >>>>>>>>>>>>-------------   48.04 %
+JSON         33 mins         >>>>>>>------------------   28.82 %
+Git          12 mins         >>>----------------------   10.60 %
+JavaScript   6 mins          >------------------------   05.27 %
+Git Config   5 mins          >------------------------   04.44 %
+YAML         2 mins          >------------------------   02.46 %
 ```
 
 <!--END_SECTION:waka-->
