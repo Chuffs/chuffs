@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 11 February 2023
+From: 30 October 2022 - To: 12 February 2023
 
-Total Time: 23 hrs 26 mins
+Total Time: 25 hrs 33 mins
 
-JavaScript   15 hrs 13 mins  >>>>>>>>>>>>>>>>---------   64.93 %
-C++          3 hrs 14 mins   >>>----------------------   13.87 %
-Markdown     1 hr 31 mins    >>-----------------------   06.52 %
-JSON         1 hr 10 mins    >------------------------   05.03 %
-INI          48 mins         >------------------------   03.47 %
-Other        34 mins         >------------------------   02.48 %
+JavaScript   15 hrs 13 mins  >>>>>>>>>>>>>>>----------   59.55 %
+C++          4 hrs 45 mins   >>>>>--------------------   18.60 %
+Markdown     1 hr 31 mins    >------------------------   05.98 %
+INI          1 hr 25 mins    >------------------------   05.59 %
+JSON         1 hr 10 mins    >------------------------   04.62 %
+Other        34 mins         >------------------------   02.28 %
 ```
 
 <!--END_SECTION:waka-->
