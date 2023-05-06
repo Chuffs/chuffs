@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 03 May 2023
+From: 30 October 2022 - To: 04 May 2023
 
 Total Time: 25 hrs 38 mins
 
@@ -70,7 +70,6 @@ C++          4 hrs 49 mins   >>>>>--------------------   18.82 %
 Markdown     1 hr 31 mins    >------------------------   05.96 %
 INI          1 hr 26 mins    >------------------------   05.64 %
 JSON         1 hr 10 mins    >------------------------   04.60 %
-Other        34 mins         >------------------------   02.27 %
 ```
 
 <!--END_SECTION:waka-->
